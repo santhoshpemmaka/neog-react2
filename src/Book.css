@@ -1,0 +1,20 @@
+.btn-submit{
+    margin: 1rem 0.75rem;
+    padding: 0.5rem 1rem;
+    border: 1px solid black;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    background: #93C5FD;
+    font-size: 1rem;
+}
+.listing{
+    list-style: none;
+    padding: 1rem;
+    border: 1px solid #D1D5DB;
+    width: 100%;
+    margin: 1rem 0rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    background: #93C5FD;
+    color: white;
+}
